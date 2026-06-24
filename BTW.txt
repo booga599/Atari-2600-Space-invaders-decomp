@@ -1,0 +1,1 @@
+btw I know it works i compiled it with dasm and ran using stella and it was fully functional
